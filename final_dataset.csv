@@ -1,0 +1,49 @@
+﻿Team1,Team2,toss_winner,toss_decision,Team1_net_run_rate,Team2_net_run_rate,Winner
+England , New Zealand,New Zealand,field,-0.57,0.74,New Zealand
+Pakistan , Netherlands,Netherlands,field,-0.20,-1.83,Pakistan
+Bangladesh , Afghanistan,Bangladesh,field,-1.09,-0.34,Bangladesh
+South Africa , Sri Lanka,Sri Lanka,field,1.26,-1.42,South Africa
+India , Australia,Australia,bat,2.57,0.84,India
+New Zealand , Netherlands,Netherlands,field,0.74,-1.83,New Zealand
+England , Bangladesh ,Bangladesh,field,-0.57,-1.09,England
+Pakistan , Sri Lanka,Sri Lanka,bat,-0.20,-1.42,Pakistan
+India , Afghanistan,Afghanistan,bat,2.57,-0.34,India
+Australia , South Africa,Australia,field,0.84,1.26,South Africa
+New Zealand , Bangladesh,New Zealand,field,0.74,-1.09,New Zealand
+India , Pakistan,India,field,2.57,-0.20,India
+England , Afghanistan,England,field,-0.57,-0.34,Afghanistan
+Australia , Sri Lanka,Sri Lanka,bat,0.84,-1.42,Australia
+South Africa , Netherlands,South Africa,field,1.26,-1.83,Netherlands
+New Zealand , Afghanistan,Afghanistan,field,0.74,-0.34,New Zealand
+India , Bangladesh,Bangladesh,bat,2.57,-1.09,India
+Australia , Pakistan,Pakistan,field,0.84,-0.20,Australia
+Netherlands , Sri Lanka,Netherlands,bat,-1.83,-1.42,Sri Lanka
+England , South Africa,England,field,-0.57,1.26,South Africa
+India , New Zealand,India,field,2.57,0.74,India
+Pakistan , Afghanistan,Pakistan,bat,-0.20,-0.34,Afghanistan
+South Africa , Bangladesh,South Africa,bat,1.26,-1.09,South Africa
+Australia , Netherlands,Australia,bat,0.84,-1.83,Australia
+England , Sri Lanka,England,bat,-0.57,-1.42,Sri Lanka
+Pakistan , South Africa,Pakistan,bat,-0.20,1.26,South Africa
+Australia , New Zealand,New Zealand,field,0.84,0.74,Australia
+Netherlands , Bangladesh,Netherlands,bat,-1.83,-1.09,Netherlands
+India , England,England,field,2.57,-0.57,India
+Afghanistan , Sri Lanka,Afghanistan,field,-0.34,-1.42,Afghanistan
+Pakistan , Bangladesh,Bangladesh,bat,-0.20,-1.09,Pakistan
+New Zealand , South Africa,New Zealand,field,0.74,1.26,South Africa
+India , Sri Lanka,Sri Lanka,field,2.57,-1.42,Sri Lanka
+Netherlands , Afghanistan,Netherlands,bat,-1.83,-0.34,Afghanistan
+New Zealand , Pakistan,Pakistan,field,0.74,-0.20,Pakistan
+England , Australia,England,field,-0.57,0.84,Australia
+India , South Africa,India,bat,2.57,1.26,India
+Bangladesh , Sri Lanka,Bangladesh,field,-1.09,-1.42,Bangladesh
+Australia , Afghanistan,Afghanistan,bat,0.84,-0.34,Australia
+England , Netherlands,England,bat,-0.57,-1.83,England
+New Zealand , Sri Lanka,New Zealand,field,0.74,-1.42,New Zealand
+South Africa , Afghanistan,Afghanistan,bat,1.26,-0.34,South Africa
+Australia , Bangladesh,Australia,field,0.84,-1.09,Australia
+England , Pakistan,England,bat,-0.57,-0.20,England
+India , Netherlands,India,bat,2.57,-1.83,India
+India ,New Zealand,India,bat,2.57,0.74,India
+Australia , South Africa,South Africa,bat,0.84,1.26,Australia
+India,Australia,Australia,field,2.57,0.84,Australia
